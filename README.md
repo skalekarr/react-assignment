@@ -5,4 +5,4 @@ In order to successfully run this example, you will need to have node v4 or grea
 
 These are the only commands you should have to worry about. Running `npm start` will start a local webserver and you can access the page from [http://localhost:3000](http://localhost:3000)
 
-*Note* This repo is forked from [https://github.com/facebookincubator/create-react-app](create-react-app)
+*Note* This repo is forked from `create-react-app`
